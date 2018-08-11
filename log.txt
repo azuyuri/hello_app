@@ -1,0 +1,2 @@
+ - c309838 : 2nd initialize repository (2018-08-10 00:19:36 +0900)
+ - 75a7ca1 : Improve the README file (2018-08-10 00:38:14 +0900)
